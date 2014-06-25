@@ -1,0 +1,9 @@
+c:\users\mirc00\documents\visual studio 2013\Projects\reyz-Twitch.TV\reyz-Twitch.TV\obj\Debug\reyz-Twitch.TV.csprojResolveAssemblyReference.cache
+c:\users\mirc00\documents\visual studio 2013\Projects\reyz-Twitch.TV\reyz-Twitch.TV\obj\Debug\reyz_Twitch.TV.Form1.resources
+c:\users\mirc00\documents\visual studio 2013\Projects\reyz-Twitch.TV\reyz-Twitch.TV\obj\Debug\reyz_Twitch.TV.Properties.Resources.resources
+c:\users\mirc00\documents\visual studio 2013\Projects\reyz-Twitch.TV\reyz-Twitch.TV\obj\Debug\reyz-Twitch.TV.csproj.GenerateResource.Cache
+C:\Users\mirc00\documents\visual studio 2013\Projects\reyz-Twitch.TV\reyz-Twitch.TV\bin\Debug\TWTV-Livestreamer-App - by mirc00.exe.config
+C:\Users\mirc00\documents\visual studio 2013\Projects\reyz-Twitch.TV\reyz-Twitch.TV\bin\Debug\TWTV-Livestreamer-App - by mirc00.exe
+C:\Users\mirc00\documents\visual studio 2013\Projects\reyz-Twitch.TV\reyz-Twitch.TV\bin\Debug\TWTV-Livestreamer-App - by mirc00.pdb
+C:\Users\mirc00\documents\visual studio 2013\Projects\reyz-Twitch.TV\reyz-Twitch.TV\obj\Debug\TWTV-Livestreamer-App - by mirc00.exe
+C:\Users\mirc00\documents\visual studio 2013\Projects\reyz-Twitch.TV\reyz-Twitch.TV\obj\Debug\TWTV-Livestreamer-App - by mirc00.pdb
