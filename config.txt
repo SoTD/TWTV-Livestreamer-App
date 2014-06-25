@@ -1,0 +1,3 @@
+path_livestreamer=C:\Users\mirc00\Desktop\livestreamer-v1.8.2\livestreamer.exe
+path_vlc=
+twtv_username=
